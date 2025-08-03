@@ -63,7 +63,7 @@ Understanding NEIW helps navigate:
 - [[SAFe]]
 - [[SAFe Immune System]]
 - [[R&D Symphony Orchestra Metaphor]]
-- [[Hypothesis - Transform Away from SAFe]]
+- [[Hypothesis: Transform Away from SAFe]]
 
 ## Source
 From [[Can we go away from SAFe?]] - [[Anders]]'s explanation of current governance model

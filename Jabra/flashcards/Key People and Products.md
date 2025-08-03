@@ -40,7 +40,7 @@ What characterizes [[C Team]] people? :: Recommended not to keep - like [[Jesper
 What is [[Jabra+]]? :: Jabra's video conferencing management software that is "a step behind competitors"
 <!--SR:!2025-07-31,1,230-->
 
-What is [[PanaCast]]? :: Jabra's video bar/camera product line for meeting rooms
+What is [[Panacast]]? :: Jabra's video bar/camera product line for meeting rooms
 <!--SR:!2025-08-02,3,250-->
 
 What is [[Sound+]]? :: Jabra's audio product line
@@ -56,7 +56,7 @@ What is [[Jabra Engage AI]]? :: Voice and emotion analysis tool for call centers
 
 What is [[Developer Platform]]? :: Cloud APIs, SDKs, and data pipelines for developers, managed by [[Nisse]] and [[John Gould]]
 
-What are [[GenAI Devices]]? :: AI-enabled devices and multi-modal interfaces (like glasses), part of [[Ovais]]'s strategy
+What are [[GenAI devices]]? :: AI-enabled devices and multi-modal interfaces (like glasses), part of [[Ovais]]'s strategy
 
 What are [[Agentic AI admins]]? :: AI agents that automate IT administration tasks, managed by [[Ovais]]
 

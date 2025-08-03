@@ -44,7 +44,7 @@ How can [[Jabra]] leverage [[Edge Computing]] and AI to differentiate in the [[V
 
 **Problem Breakdown**:
 
-- Current [[PanaCast|video bars]] lack excess compute capacity, requiring hardware additions (cost increase)
+- Current [[Panacast|video bars]] lack excess compute capacity, requiring hardware additions (cost increase)
 - Data transmission savings may not translate to customer savings since [[Microsoft Teams|Microsoft]]/[[Zoom]] use license-based pricing, not data-based pricing
 - Cloud providers actively pursue data harvesting strategies, making cost competition difficult
 

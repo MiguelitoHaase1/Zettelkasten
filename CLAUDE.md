@@ -30,7 +30,7 @@ This Obsidian vault captures Michael's growing understanding of Jabra's software
 
 ### Always Link These Entities
 - **People**: Every name mentioned → `[[Person Name]]`
-- **Products**: All products or projects → `[[Jabra+]]`, `[[PanaCast]]`, `[[Sound+]]`
+- **Products**: All products or projects → `[[Jabra+]]`, `[[Panacast]]`, `[[Sound+]]`
 - **Concepts**: Technical and business terms → `[[SWART]]`, `[[Front-line Workers]]`
 - **Projects**: Any initiative or program → `[[100-day Plan]]`, `[[GenAI Strategy]]`
 - **Meetings**: Reference to discussions → `[[2024-01-29 Meeting with Sarah]]`
@@ -91,24 +91,32 @@ First Interaction:: [[Date]]
 - 
 ```
 
+### Stakeholder Suffixes for Comprehensive Profiles
+When documenting stakeholders, use these core suffixes to capture multi-dimensional insights:
+
+- **[[Person Name/views]]** - Their priorities, concerns, stated positions, and perspectives
+- **[[Person Name/strengths]]** - What they excel at, their superpowers, areas of expertise
+- **[[Person Name/weaknesses]]** - Development areas, blind spots, areas for growth/improvement
+- **[[Person Name/style]]** - Personality type, communication preferences, behavioral patterns, working style
+
+Example usage:
+- `[[Sarah Johnson/views]]` → Document her stance on product strategy, concerns about timeline
+- `[[Sarah Johnson/strengths]]` → Technical expertise, stakeholder management, strategic thinking
+- `[[Sarah Johnson/weaknesses]]` → Delegation, saying no to scope creep
+- `[[Sarah Johnson/style]]` → Direct communicator, data-driven, prefers written summaries
+
 ### Assumption/Hypothesis Template
 ```markdown
 # Assumption: [[Context]]
 Statement:: What I believe to be true
 Confidence:: [High/Medium/Low - X%]
-Based on:: [[Source]], [[Meeting]], [[Document]]
-Testing via:: How I'll validate
-Status:: #assumption/untested
-Last Updated:: [[Date]]
 
-## Evidence For
+# Testing card: How I'll validate
+
+## Evidence For/against
 - [[Link to supporting evidence]]
 
-## Evidence Against
-- [[Link to contradicting evidence]]
-
-## Impact if Wrong
-- 
+## What to do if we are right
 ```
 
 ## Claude Code Directives
@@ -153,13 +161,63 @@ Last Updated:: [[Date]]
 - Track assumptions underlying each strategy
 - Create decision logs for major choices
 
+## Weekly Planning Template
+
+### Purpose
+Create focused weekly plans that drive concrete outcomes, not just activities. Each week should either solve a specific problem or validate/reject a key hypothesis.
+
+### Weekly Plan Structure
+```markdown
+# Week of [Date]: [Action-Oriented Title]
+
+## Purpose This Week
+[2-3 sentences in plain language explaining what you're trying to accomplish and why it matters. Connect to one of the 3 digital transformations in @/digital transformations (skunk works teams, integrating hardware and software, or AI centric product development) and previous learnings and hypotheses.]
+
+## The One Key Problem to Solve
+**[Single, specific question or problem statement related to one of the 3 digital transformations]**
+
+Success looks like: [Concrete deliverable or outcome by Friday]
+
+## Key Questions to Ask Everyone
+1. [Universal question that reveals system dynamics]
+2. [Question that identifies decision makers and blockers]
+3. [Question that uncovers what would need to change]
+4. [Question inspired by the 'great questions' markdown in @/Michael Onboarding
+
+## Five Other Potential Focus Areas for the Week
+
+### 1. [Action-Oriented Title]
+**Hypothesis/Problem**: [What you're testing or solving]
+**Action**: [Specific steps you'll take]
+**Key People**: [Who to engage with links]
+
+### 2-5. [Repeat structure above]
+
+## Success Metrics by Friday
+- [ ] [Specific, measurable outcome]
+- [ ] [People/champions identified]
+- [ ] [Deliverable created]
+- [ ] [Decision or validation achieved]
+- [ ] [Next steps clarified]
+
+## Remember
+[One-line reminder about bias toward action over analysis]
+```
+
+### Planning Best Practices
+1. **One Main Thing**: Each week focuses on ONE primary problem/hypothesis
+2. **Concrete Outcomes**: Success metrics should be binary - achieved or not
+3. **People-Centric**: Every focus area identifies specific people to engage
+4. **Action Bias**: Frame everything as "what to do" not "what to study"
+5. **Build on Previous**: Connect to learnings and hypotheses from prior weeks
+
 ## Example Transformations
 
 ### Before:
 "Met with Sarah about [[Videoconferencing]]. She thinks we need better integration."
 
 ### After:
-"Met with [[Sarah Johnson]] about [[Videoconferencing]] Business. She believes we need better [[PanaCast]] integration with [[Microsoft Teams]]. Created [[Assumption: Teams Integration Priority]] to track this belief. Added to [[Open Questions#Integration Roadmap]]."
+"Met with [[Sarah Johnson]] about [[Videoconferencing]] Business. She believes we need better [[Panacast]] integration with [[Microsoft Teams]]. Created [[Assumption: Teams Integration Priority]] to track this belief. Added to [[Open Questions#Integration Roadmap]]."
 
 ## Remember
 

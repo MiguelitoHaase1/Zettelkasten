@@ -23,7 +23,7 @@ From [[Day 0 - Overall team learnings]]: "All our product managers are sitting i
 - [[Jabra+]] (enterprise device management)
 - [[Jabra Mobile]] (consumer mobile app)
 - [[Developer Platform]] (APIs and SDKs)
-- [[PanaCast]] (video hardware/software)
+- [[Panacast]] (video hardware/software)
 
 All have fundamentally different:
 - Release cycles
@@ -57,7 +57,7 @@ Per [[Transform Away from SAFe]], consider:
 
 ## Related Concepts
 - [[SAFe]]
-- [[Hypothesis - Transform Away from SAFe]]
+- [[Hypothesis: Transform Away from SAFe]]
 - [[Product Team Health]]
 - [[Outcomes vs Outputs]]
 

@@ -1,0 +1,1 @@
+One lesson so far is that actually the [[Design]] team is mainly deep in other aspects of Jabra's business - not [[Video Conferencing]]... [[Nisse]] said himself that, he hasn't yet gone deep in that domain... that's a huge white gap --- we need UX depth if we are to challenge the  [[Feature Parity Trap]].

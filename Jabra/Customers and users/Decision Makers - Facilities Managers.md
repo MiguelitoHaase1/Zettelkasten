@@ -58,7 +58,7 @@ Facilities Managers often have veto power because they:
 ## Related Concepts
 - [[Decision Makers - IT Sourcers]]
 - [[AV Installer Use Cases]]
-- [[PanaCast]] deployment
+- [[Panacast]] deployment
 
 ## Source
 From [[Buyers and users of Jabra software]]

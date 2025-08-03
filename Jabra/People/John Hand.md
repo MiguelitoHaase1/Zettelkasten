@@ -24,4 +24,4 @@
 ## Related
 - [[Jabra+]]
 - [[Product Team Distribution]]
-- [[Hypothesis - Opinionated PMs Drive Better Outcomes]]
+- [[Hypothesis: Opinionated PMs Drive Better Outcomes]]

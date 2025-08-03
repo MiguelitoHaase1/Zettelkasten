@@ -3,7 +3,7 @@
 ## Overview
 - **Product Team**: [[GenAI]] strategy
   - Devices powered by AI
-  - New [[GenAI Devices]]
+  - New [[GenAI devices]]
   - GenAI powered software (e.g., [[Agentic AI admins]])
 - **Performance Rating**: [[A Team]]
 - **Team Assessment**: Grow and treat like kings
@@ -20,7 +20,7 @@
 
 ## Related Projects
 - [[Videoconferencing strategy]] - Working with [[Alex]] on GenAI video strategy
-- [[GenAI Devices]]
+- [[GenAI devices]]
 - [[Agentic AI admins]]
 
 ## Team Relationships

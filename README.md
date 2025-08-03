@@ -48,7 +48,7 @@ Designed to surface non-obvious relationships between people, products, and stra
 
 ### Products
 - [[Jabra+]] - Core platform
-- [[PanaCast]] - Video solutions
+- [[Panacast]] - Video solutions
 - [[Sound+]] - Audio management
 - [[Jabra Direct]] - Device management
 - [[Videoconferencing]] - Business solutions
