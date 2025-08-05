@@ -1,9 +1,9 @@
-# Transformation 3: AI-Native Product Development
+# Transformation 4: Boost the use AI in software development
 **TOOLS we use**
 
 ## The Transformation
 
-Re-organize, re-train, and re-tool for a post-AI product world. Every team member becomes 10x more productive through AI augmentation.
+Re-organize, re-train, and re-tool product teams for a post-AI product world. Every team member becomes 10x more productive through AI augmentation.
 
 ## Key Initiatives
 

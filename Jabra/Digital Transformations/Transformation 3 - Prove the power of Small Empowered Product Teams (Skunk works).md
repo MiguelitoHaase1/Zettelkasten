@@ -1,4 +1,4 @@
-# Transformation 1: Small Empowered Teams (Skunk Works)
+# Transformation 3: Prove the power of Small Empowered Teams (Skunk Works)
 **HOW we organize**
 
 ## The Transformation
@@ -6,6 +6,10 @@
 Prove what small, autonomous skunk works teams can accomplish when freed from organizational constraints and given direct customer access.
 
 ## Key Initiatives
+
+### Start pushing more decisions into product teams
+- Across our SAFe rituals, make sure to nudge more and more decisions to be made where context is biggest - the product teams
+- Build product-team specific rituals, rather than corporate-wide ones
 
 ### SWAT Team for Beach-head Customers in [[Videoconferencing]]]]
 - Rapid response team for [[Videoconferencing]] beachhead customers

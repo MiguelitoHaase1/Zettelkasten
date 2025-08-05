@@ -1,4 +1,4 @@
-# Transformation 2: Integrated Discovery (Hardware + Software)
+# Transformation 2: Stop treating software like an afterthought
 **WHAT we build together**
 
 ## The Transformation

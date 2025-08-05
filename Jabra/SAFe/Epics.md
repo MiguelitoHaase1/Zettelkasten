@@ -1,0 +1,1 @@
+Some conceptual chats about 'how to put things into scope' --- the mechanics of epics not clear to people. Spend too much time on that.

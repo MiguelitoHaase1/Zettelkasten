@@ -1,7 +1,7 @@
 # [[Jabra+]]
 
 ## Overview
-Device management platform for video conferencing room solutions and personal audio devices
+Device management platform for [[video conferencing]] room solutions and [[professional headsets]]. 
 
 ## Product Manager
 [[John Hand]]
@@ -11,7 +11,7 @@ Device management platform for video conferencing room solutions and personal au
 
 ## Business Context
 - Serves both [[Professional Headsets Business]] (85% of business) and [[Videoconferencing Business]] (15% of business)
-- Critical for IT admins managing Jabra devices
+- Critical for [[IT Admins]] managing Jabra devices
 - Currently playing catch-up with competitors
 
 ## Key Features

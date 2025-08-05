@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jabra/Michael Onboarding/User manual for Michael.md",
+                "file": "Jabra/Meetings/Anders meeting, 6 Aug 2025 (Agenda).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User manual for Michael"
-            }
-          },
-          {
-            "id": "1d7271123d39e68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jabra/Resources/Jabra - a tale of 4 businesses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jabra - a tale of 4 businesses"
-            }
-          },
-          {
-            "id": "9ace9d534db052a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jabra/Strategy/Goals set for me, 2H2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goals set for me, 2H2025"
+              "title": "Anders meeting, 6 Aug 2025 (Agenda)"
             }
           },
           {
@@ -55,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jabra/Digital Transformations/Transformation 4 - Continuous Customer Validation.md",
+                "file": "Jabra/Digital Transformations/Transformation 1 - Deep Customer Sense.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformation 4 - Continuous Customer Validation"
+              "title": "Transformation 1 - Deep Customer Sense"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 456.5
   },
   "right": {
     "id": "c88b6c071706893f",
@@ -233,47 +204,48 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "11489065c2e6b1cc",
+  "active": "50c0b5b97a11fc17",
   "lastOpenFiles": [
-    "Jabra/Digital Transformations/Transformation 3 - AI-Native Product Development.md",
-    "Jabra/Digital Transformations/Transformation 2 - Integrated Discovery (Hardware + Software).md",
-    "Jabra/Digital Transformations/Transformation 1 - Small Empowered Teams (Skunk Works).md",
-    "Jabra/Resources/Tackling room sizes.md",
-    "Jabra/Digital Transformations/Transformation 4 - Continuous Customer Validation.md",
+    "Jabra/Meetings/Overall meeting notes, 1st Aug, Nisse.md",
+    "Jabra/flashcards/Customer Discovery Questions.md",
+    "Jabra/Meetings/Anders meeting, 6 Aug 2025 (Agenda).md",
+    "Jabra/Meetings/Ovais 1-on-1, 05 Aug 2025.md",
+    "Jabra/People/Gosia.md",
+    "Jabra/Meetings/John Hand, 5th Aug 2025.md",
+    "Jabra/Strategy/Enterprise Strategy - Making Work-Life better.md",
+    "Jabra/Hardware products/Basalt.md",
+    "Jabra/Hardware products/LYRA device (Evolve3 65).md",
+    "Jabra/SAFe/Epics.md",
+    "Jabra/SAFe/Ritual 2 - Concepting Reviews.md",
+    "Jabra/Meetings/Headset Concepting review, 5 Aug 2025.md",
+    "Jabra/People/Jabra Leadership.md",
+    "Jabra/SAFe/Pasted image 20250804205228.png",
+    "Jabra/SAFe/Ritual 1 - Enterprise Opportunity Team.md",
+    "Jabra/Digital Transformations/Transformation 1 - Nurture Deep Customer Sense in product teams.md",
+    "Jabra/Digital Transformations/Transformation 4 - Boost the use of AI in software development.md",
+    "Jabra/Digital Transformations/Transformation 2 - Stop treating software like an afterthought.md",
+    "Jabra/Digital Transformations/Transformation 3 - Prove the power of Small Empowered Product Teams (Skunk works).md",
+    "Jabra/SAFe",
+    "Jabra/Video Conferencing/Video conference positioning.md",
+    "Jabra/Video Conferencing/Competitors.md",
+    "Jabra/Video Conferencing",
+    "Jabra/Meetings/Anders meeting, 4 Aug 2025.md",
+    "Jabra/flashcards/Customers and Users.md",
+    "Jabra/flashcards/Hypotheses and Assumptions.md",
+    "Jabra/flashcards/Key People and Products.md",
+    "Jabra/flashcards/Jabra Essentials - Top 25.md",
+    "Jabra/flashcards/Hardware Products and Launches.md",
+    "Jabra/flashcards/Hardware Products and Launches.md.tmp.3218.1754242297531",
+    "Jabra/flashcards/Design and Discovery Insights.md.tmp.3218.1754242280185",
+    "Jabra/flashcards/Strategic Goals and Metrics.md.tmp.3218.1754242261541",
+    "Jabra/Weekly goals",
     "Jabra/People/John Hand.md.tmp.3218.1754225503478",
     "Jabra/Hypotheses/Poland Dev Team Empowerment.md.tmp.3218.1754225498410",
     "Jabra/Software Products/GenAI devices.md.tmp.3218.1754225247551",
     "Jabra/Resources/SWART Structure.md.tmp.3218.1754225236537",
-    "CLAUDE.md.tmp.3218.1754225224705",
-    "Jabra/Strategy/PI goals, 2025Q3 (SWART).md.tmp.3218.1754225188875",
-    "Jabra/Strategy/Goals set for me, 2H2025.md",
-    "Jabra/Customers and users/Customer discovery questions.md",
-    "Jabra/Customers and users/Demand-side sales method.md",
-    "Jabra/Resources/Edge AI vs Cloud AI.md",
-    "Jabra/Digital Transformations/Transformation 1 - Skunk works teams.md",
-    "Jabra/Digital Transformations/Transformation 2 - Integrate software and hardware discovery.md",
-    "Jabra/Strategy/Goals for products, by April 2027.md",
-    "Jabra/Strategy/PI goals, 2025Q3 (SWART).md",
-    "Jabra/Resources/Boomless.md",
-    "Jabra/Hardware products/Panacast.md",
-    "Jabra/Hardware products/Firefoot.md",
-    "Jabra/Software Products/GenAI devices.md",
-    "Jabra/Software Products/GenAI device team.md",
-    "Jabra/Hardware products/Evolve 3 platform.md",
     "Jabra/Hardware products/Screenshot 2025-08-03 at 2.18.13 PM.png",
     "Jabra/Hardware products/Screenshot 2025-08-03 at 2.29.13 PM.png",
-    "Jabra/Hardware products",
-    "Jabra/Strategy",
-    "Jabra/Michael Onboarding/Jabra Express.md",
-    "Jabra/Strategy",
-    "CLAUDE.md",
-    "Jabra/Michael Onboarding/Great questions.md",
     "Jabra/Michael Onboarding/image (6).png",
-    "Jabra/Digital Transformations/Transformation 3 - AI centric product development.md",
-    "Jabra/Michael Onboarding/Working Backwards 2025 Goal Visualization.md",
-    "Jabra/Michael Onboarding/2025 Goal Visualization_ Working Backwards from 10% Market Share _ Claude _ Claude.pdf",
-    "Jabra/Hypotheses/The Feature Parity Trap.md",
-    "Jabra/Hypotheses/Tech SWAT Team.md",
     "Untitled.canvas",
     "Jabra/Resources/Rajat_methodology.png",
     "Jabra/Resources/Stages_Jabra.png"
