@@ -22,7 +22,7 @@
 - [Amazon Link](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
 - Focus: Organizing business and technology teams for fast flow
 - Key concepts: Team types, interaction modes, cognitive load
-- Relevant for transforming away from [[SAFe]]
+- Relevant for transforming away from [[SAFe's factory mindset]]
 
 ## Ongoing Learning
 
@@ -37,7 +37,7 @@
 These selections support:
 - [[Scientist vs Factory Manager Mindset]]
 - [[Continuous Discovery]] practices
-- Team autonomy (vs. [[SAFe]] structure)
+- Team autonomy (vs. [[SAFe's factory mindset]] structure)
 - Customer-centric thinking
 - Modern product practices
 

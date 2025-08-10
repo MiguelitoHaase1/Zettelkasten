@@ -1,5 +1,5 @@
 # Transformation 1: Nurture Deep Customer Sense in product teams
-**WHY we build**
+**Be a customer geek!**
 
 ## The Transformation
 

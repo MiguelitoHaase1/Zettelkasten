@@ -10,7 +10,7 @@
 
 ## Background
 - Has experience in video products (milestone)
-- Experience with [[SAFe]] methodology
+- Experience with [[SAFe's factory mindset]] methodology
 
 ## Role & Responsibilities
 - Exploring services that can be monetized

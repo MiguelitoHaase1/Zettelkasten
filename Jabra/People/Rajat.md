@@ -1,0 +1,1 @@
+He seems to believe he is not allowed to talk to the [[video conferencing]] or [[Headsets]] BUs... but has to go through us in Product management --- let's change that!

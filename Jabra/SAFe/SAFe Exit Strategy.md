@@ -2,7 +2,7 @@
 
 ## The Approach
 
-[[Anders]]'s pragmatic strategy for transforming away from [[SAFe]] without triggering the [[SAFe Immune System]].
+[[Anders]]'s pragmatic strategy for transforming away from [[SAFe's factory mindset]] without triggering the [[SAFe Immune System]].
 
 ## Step 1: Make SAFe Boring (Early 2025)
 

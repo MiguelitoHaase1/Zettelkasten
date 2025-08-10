@@ -1,0 +1,3 @@
+We get bugs and requests via Aha! product and directly from the BUs/regions.
+
+Currently, bugs is considered a R&D thing that product management should stay out of...

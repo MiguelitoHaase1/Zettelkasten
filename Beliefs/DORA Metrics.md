@@ -74,7 +74,7 @@ While DORA measures delivery health, combine with:
 
 ## At Jabra
 
-Moving from [[SAFe]] to high-performing teams means:
+Moving from [[SAFe's factory mindset]] to high-performing teams means:
 - Shifting from quarterly to daily deployments
 - Reducing lead time from months to days
 - Building resilient systems

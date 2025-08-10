@@ -1,4 +1,4 @@
-## Topics to discuss
+## Topics to discuss with [[Anders]]
 
 ### My team rituals
 1 - weekly 1 hour 1-on-1's
@@ -19,10 +19,9 @@ Direct link to devs and POs.
 Can be the PM's extended arm
 
 ### Sierra.ai or similar agent champion to solve IT admin challenges for videoconferencing?
-Since we just need to get up-to-par on IT admin - why don't we buy it in town? Particularly, how about we get Sierra to build agents on our API... providing feedback on our API and making a superior IT admin experience?
+See pitch here: [[Closing feature gaps with Agents (Sierra)]].
 
-Sidekick: How about we do it WITH Logitech?!
-
+Anders was supportive, but mentioned that our own video conferencing BU will fight it.. they argue for 'crawling before we run'...
 
 ## Power brokers
 I'd like a list of the makers and shakers.

@@ -11,7 +11,7 @@ Too many thinkers and facilitators... we need builder mindsets and more hot hand
 - Compare velocity of builder-heavy teams vs coordinator-heavy teams
 
 ## Evidence For
-- Current [[SAFe]] process creates many coordination roles
+- Current [[SAFe's factory mindset]] process creates many coordination roles
 - Multiple layers of [[PM]]/[[PO]] separation from actual building
 - Meeting-heavy culture suggests too much coordination
 - [[Software Symptoms]] show high cost, low delivery

@@ -75,7 +75,7 @@ To address the [[Software Root Causes]] creating our [[Software Symptoms]], thre
 
 These solutions require:
 - Moving PMs closer to development
-- Reducing [[SAFe]] ceremony overhead
+- Reducing [[SAFe's factory mindset]] ceremony overhead
 - Empowering teams to talk to users
 - Shifting to [[Outcomes vs Outputs]]
 

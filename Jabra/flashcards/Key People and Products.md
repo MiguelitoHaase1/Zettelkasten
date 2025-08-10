@@ -26,7 +26,7 @@ Who is [[Jesper]] and what's his rating? :: PM for Services and AV installer use
 Who is [[John Gould]] and what's his rating? :: PM for Developer Programme (1-person team), [[C Team]] - don't keep, wants to serve small developers
 <!--SR:!2025-08-07,4,270-->
 
-Who is [[John Hand]] and what's his rating? :: PM for [[Jabra+]], [[B Team]] - needs coaching to be more opinionated and bold
+Who is [[Jabra/People/John Hand]] and what's his rating? :: PM for [[Jabra+]], [[B Team]] - needs coaching to be more opinionated and bold
 <!--SR:!2025-08-06,3,250-->
 
 Who is [[Mikkel]] and what's his rating? :: PM for [[Jabra Mobile]], [[A Team]] - hacker, opportunist, product visionary, grow and treat like a king
@@ -38,7 +38,7 @@ Who is [[Uffe]] and what's his rating? :: SPOC for pre-sales questions and [[Jab
 What characterizes [[A Team]] people? :: Top performers like [[Mikkel]] and [[Ovais]] - passionate, visionary, first-principles thinkers to grow and retain
 <!--SR:!2025-08-04,1,230-->
 
-What characterizes [[B Team]] people? :: Need coaching but have potential - like [[Nisse]], [[John Hand]], and [[Uffe]]
+What characterizes [[B Team]] people? :: Need coaching but have potential - like [[Nisse]], [[Jabra/People/John Hand]], and [[Uffe]]
 <!--SR:!2025-08-07,4,270-->
 
 What characterizes [[C Team]] people? :: Recommended not to keep - like [[Jesper]] and [[John Gould]]

@@ -1,4 +1,4 @@
-# [[John Hand]]
+# [[Jabra/People/John Hand]]
 
 ## Overview
 - **Product Team**: [[Jabra+]]

@@ -23,7 +23,7 @@
 ## Why This Matters
 
 This metaphor explains:
-- Strong attachment to [[SAFe]]
+- Strong attachment to [[SAFe's factory mindset]]
 - Resistance to autonomous teams
 - Focus on synchronization ceremonies
 - Hierarchical decision-making
@@ -48,7 +48,7 @@ When discussing transformation:
 
 ## Connection to SAFe
 
-The symphony metaphor perfectly aligns with [[SAFe]]:
+The symphony metaphor perfectly aligns with [[SAFe's factory mindset]]:
 - PI Planning = rehearsals
 - Release trains = synchronized sections
 - Ceremonies = keeping tempo

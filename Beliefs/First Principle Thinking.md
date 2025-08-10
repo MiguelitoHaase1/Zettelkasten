@@ -47,13 +47,13 @@ This sits between:
 ## Examples at Jabra
 
 ### Where Needed
-- Why do we need [[SAFe]]? What problem does it solve?
+- Why do we need [[SAFe's factory mindset]]? What problem does it solve?
 - What do [[IT Admins]] actually need vs. what they ask for?
 - Why is voice the future interface? ([[Voice as Keyboard Business]])
 
 ### Anti-Examples
 - "[[Logitech]] has this feature, so we need it too"
-- "We've always used [[SAFe]]"
+- "We've always used [[SAFe's factory mindset]]"
 - "[[Microsoft]] partnership is obviously the right choice"
 
 ## Questions to Ask

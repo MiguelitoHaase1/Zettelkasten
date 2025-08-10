@@ -24,8 +24,8 @@ Success looks like: Power broker map with influence levels + 10-slide deck tailo
 
 ### 1. How to avoid the feature parity trap?
 **Problem**: Currently, we are in a feature parity chase in [[Videoconferencing]]... we will never win that way, and have to change the narrative
-**Action**: Go deep with [[John Hand]] on understanding the feature parity plan, and describe the cracks and opportunies. Get super tactical and propose that tio Anders
-**Key People**: [[John Hand]], [[Anders]],[[Ollie]],...
+**Action**: Go deep with [[Jabra/People/John Hand]] on understanding the feature parity plan, and describe the cracks and opportunies. Get super tactical and propose that tio Anders
+**Key People**: [[Jabra/People/John Hand]], [[Anders]],[[Ollie]],...
 
 ### 2. Build the Case for Product Leadership
 **Hypothesis**: PMs lack real agency - display clearly how much we lose from not having that

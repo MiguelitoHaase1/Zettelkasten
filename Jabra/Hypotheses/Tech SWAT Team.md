@@ -24,7 +24,7 @@ If we re-allocate resources from [[The Feature Parity Trap|feature parity]] to a
 - May create unsupportable custom solutions
 - Diverts resources from core product development
 - Could fragment product vision with too many one-offs
-- [[SAFe]] process and governance will resist this approach
+- [[SAFe's factory mindset]] process and governance will resist this approach
 - Risk of setting unrealistic customer expectations
 
 ## What To Do If We Are Right?

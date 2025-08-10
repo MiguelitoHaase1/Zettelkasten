@@ -1,7 +1,7 @@
 # Jabra Direct
 
 ## Overview
-Desktop communications software for audio personalization
+Desktop communications software for audio personalization. Legacy product to be discontinued by 2027
 
 ## Business Context
 Part of the [[Professional Headsets Business]] (85% of business, 50% market share)

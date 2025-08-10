@@ -36,7 +36,7 @@ Working like a scientist means doing 3 things well:
 ## Application at Jabra
 
 This mindset is especially critical given:
-- [[SAFe]] encourages factory thinking
+- [[SAFe's factory mindset]] encourages factory thinking
 - Need to escape the [[Catch-up Trap]]
 - Uncertainty in new markets like [[Front-line Workers Business]]
 

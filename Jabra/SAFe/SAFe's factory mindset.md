@@ -1,0 +1,9 @@
+## The Fundamental Problem with SAFe
+
+**SAFe's core flaw is treating knowledge workers as fungible resources that can be reallocated quarterly to optimize delivery.** This industrial-era thinking creates organizational thrashing that destroys the very foundations of effective knowledge work: team cohesion, deep domain expertise, and psychological safety.
+
+The framework assumes management's primary lever for agility is moving people between teams based on shifting priorities. This triggers a cascade of dysfunction. Every quarterly PI planning session becomes an exercise in cognitive disruption as individuals must rebuild context, relearn domains, and renegotiate working relationships. Teams never achieve the stability required to develop genuine expertise or tackle complex architectural challenges. The constant threat of reallocation creates an uncertainty tax that pushes organizations toward short-term, superficial solutions rather than sustainable technical excellence.
+
+What SAFe mistakes for agility is actually organizational anxiety. True agility emerges from stable teams with deep knowledge who can rapidly pivot their work focus—not from shuffling humans like inventory between warehouse shelves. The framework's heavyweight coordination ceremonies (PI planning, system demos, inspect-and-adapt workshops) exist primarily to manage the chaos SAFe itself creates through systematic destabilization.
+
+The alternative is simpler and grounded in first principles: maintain stable team topologies for 6-12 month periods minimum, adjust work priorities within teams quarterly if needed, and recognize that sustainable delivery velocity comes from teams that have had time to form, storm, norm, and perform together. Knowledge work is fundamentally about relationships and accumulated context—both of which SAFe systematically destroys in pursuit of a false efficiency.

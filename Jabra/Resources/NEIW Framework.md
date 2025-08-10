@@ -14,7 +14,7 @@ NEIW is the governance framework used by Jabra R&D, developed during a transform
 
 ## Relationship to SAFe
 
-"I think this is an adaptation of [[SAFe]]" - [[Anders]]
+"I think this is an adaptation of [[SAFe's factory mindset]]" - [[Anders]]
 
 Likely includes:
 - Similar ceremonies and roles
@@ -60,7 +60,7 @@ Understanding NEIW helps navigate:
 - Potential compromise positions
 
 ## Related Concepts
-- [[SAFe]]
+- [[SAFe's factory mindset]]
 - [[SAFe Immune System]]
 - [[R&D Symphony Orchestra Metaphor]]
 - [[Hypothesis: Transform Away from SAFe]]

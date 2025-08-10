@@ -5,7 +5,7 @@
 How Jabra's ~10 software teams are distributed across product areas within [[SWART Structure]]:
 
 ### Device Management (3 teams)
-- Owner: [[John Hand]]
+- Owner: [[Jabra/People/John Hand]]
 - Product: [[Jabra+]]
 - Focus: IT admin tools, remote management
 - 30% of team capacity

@@ -2,7 +2,7 @@
 
 ## Definition
 
-The organizational antibodies that will resist attempts to move away from [[SAFe]] and [[NEIW Framework]] at Jabra.
+The organizational antibodies that will resist attempts to move away from [[SAFe's factory mindset]] and [[NEIW Framework]] at Jabra.
 
 ## Key Defenders
 

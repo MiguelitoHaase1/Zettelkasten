@@ -1,0 +1,1 @@
+In [[Jabra Mobile]], we currently (Early August 2025) have issues with installing the PC app for "EAP" (Early Access Program)

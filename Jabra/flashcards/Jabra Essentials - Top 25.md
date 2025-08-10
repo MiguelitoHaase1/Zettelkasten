@@ -46,7 +46,7 @@ Who is [[Jon]]? :: Hardcore executor, supposed to be really powerful in Headsets
 Who is [[Mikkel]]? :: PM for [[Jabra Mobile]], A Team - hacker, opportunist, product visionary
 <!--SR:!2025-08-07,4,270-->
 
-Who is [[John Hand]]? :: PM for [[Jabra+]], B Team - needs coaching to be more opinionated
+Who is [[Jabra/People/John Hand]]? :: PM for [[Jabra+]], B Team - needs coaching to be more opinionated
 <!--SR:!2025-08-06,3,250-->
 
 Who is [[Ovais]]? :: A team member leading AI strategy including GenAI devices and Agentic AI admins - along with Alex

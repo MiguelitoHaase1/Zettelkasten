@@ -4,7 +4,7 @@
 Device management platform for [[video conferencing]] room solutions and [[professional headsets]]. 
 
 ## Product Manager
-[[John Hand]]
+[[Jabra/People/John Hand]]
 
 ## Team Structure
 3 teams working on Device Management

@@ -2,14 +2,14 @@
 
 ## What is SWART?
 
-SWART (SoftWare ART) is the Agile Release Train where all Jabra software product managers and teams operate within the [[SAFe]] framework.
+SWART (SoftWare ART) is the Agile Release Train where all Jabra software product managers and teams operate within the [[SAFe's factory mindset]] framework.
 
 ## Current Organization
 
 "All products are part of the SWART... so they are all in one, which means about 10 teams in one ART with very diverse needs!"
 
 ### Team Distribution
-- **3 teams** on Device Management ([[John Hand]])
+- **3 teams** on Device Management ([[Jabra/People/John Hand]])
 - **2 teams** on End user ([[Mikkel]])
 - **3 teams** on Partner facing ([[Nisse]])
 - **2 teams** on Platforms (no PM assigned)
@@ -56,7 +56,7 @@ Per [[Transform Away from SAFe]], consider:
 - Forced to align disparate roadmaps
 
 ## Related Concepts
-- [[SAFe]]
+- [[SAFe's factory mindset]]
 - [[Hypothesis: Transform Away from SAFe]]
 - [[Product Team Health]]
 - [[Outcomes vs Outputs]]

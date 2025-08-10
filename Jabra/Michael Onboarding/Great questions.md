@@ -8,7 +8,7 @@
 - "Who are the most innovative people on our teams?"
 
 ### Organizational Constraints
-- "Which [[SAFe]] rituals add the most vs least value?"
+- "Which [[SAFe's factory mindset]] rituals add the most vs least value?"
 - **"What would you do differently if you had full authority?"**
 
 ### Strategic Direction

@@ -38,7 +38,7 @@ This is the first step in the scientific method:
 ## Examples at Jabra
 
 - Pivoting from feature parity to differentiation ([[Stop Feature Parity Chase]])
-- Adapting [[SAFe]] rather than wholesale replacement
+- Adapting [[SAFe's factory mindset]] rather than wholesale replacement
 - Focusing on specific verticals for [[Front-line Workers Business]]
 
 ## Anti-patterns

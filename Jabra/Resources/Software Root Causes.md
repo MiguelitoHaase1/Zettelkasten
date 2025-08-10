@@ -16,7 +16,7 @@ The [[Software Symptoms]] stem from fundamental issues in how software is planne
 - Lack of clear strategy
 - Too many stakeholders with veto power
 - No framework for saying "no"
-- [[SAFe]] ceremonies without strategic clarity
+- [[SAFe's factory mindset]] ceremonies without strategic clarity
 
 ### 2. Incomplete Feature Set
 
@@ -35,7 +35,7 @@ The [[Software Symptoms]] stem from fundamental issues in how software is planne
 ## Deeper Root Causes
 
 ### Process Issues
-- [[SAFe]] optimized for predictability, not innovation
+- [[SAFe's factory mindset]] optimized for predictability, not innovation
 - Planning happens without customer input
 - Too far from actual users
 - [[SWART Structure]] creates artificial dependencies

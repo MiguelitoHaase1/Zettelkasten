@@ -1,7 +1,7 @@
 # Hypothesis: We need a ront-line AI Skunk Works
 
 ## Describe Hypothesis
-If we create an independent [[Skunk Works]] team to develop AI-powered devices for [[Front-line Workers]], then we'll accelerate innovation and avoid organizational constraints that slow breakthrough product development. [[Front-line Workers]] represent a larger market than [[Videoconferencing]], but require rapid AI innovation that [[SAFe]] framework cannot support.
+If we create an independent [[Skunk Works]] team to develop AI-powered devices for [[Front-line Workers]], then we'll accelerate innovation and avoid organizational constraints that slow breakthrough product development. [[Front-line Workers]] represent a larger market than [[Videoconferencing]], but require rapid AI innovation that [[SAFe's factory mindset]] framework cannot support.
 
 ## Tests
 - Assess executive appetite and sponsorship for independent team (Week 1-2)
@@ -13,7 +13,7 @@ If we create an independent [[Skunk Works]] team to develop AI-powered devices f
 ## Evidence For
 - [[Front-line Workers]] represent larger market opportunity than traditional video conferencing
 - AI device market moving rapidly - need speed over process
-- [[SAFe]] framework too heavy for breakthrough innovation
+- [[SAFe's factory mindset]] framework too heavy for breakthrough innovation
 - [[Videoconferencing strategy]] mentions successful skunk works precedent
 - Independent teams move faster without organizational friction
 - [[Voice as New Keyboard]] opportunity requires different approach

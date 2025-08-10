@@ -24,7 +24,7 @@ As long as software is not integrated with hardware in our discovery and deliver
 ## Evidence Against
 - Some recognition of problem exists (this hypothesis itself)
 - [[GenAI devices]] initiative shows potential for integrated thinking
-- New leadership ([[Michael Onboarding]]) brings fresh perspective
+- New leadership ([[Non negotiables]]) brings fresh perspective
 - Design team vision includes "early discovery that combines hardware and software"
 - Some products may genuinely benefit from modular approach
 - Integration complexity might slow both hardware and software

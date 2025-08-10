@@ -11,7 +11,7 @@ Without a 'CEO of the product', we won't be able to succeed. The current [[PM]] 
 ## Evidence For
 - [[Day 0 - Overall team learnings]]: PMs "seem afraid to have opinions beyond their narrow domains"
 - PMs operate at distance from development teams, suggesting limited influence
-- [[SAFe]] framework constrains PM authority and ownership
+- [[SAFe's factory mindset]] framework constrains PM authority and ownership
 - Feature factory mentality indicates coordination role over ownership
 - No clear product accountability when things go wrong
 - Products lack clear strategic direction

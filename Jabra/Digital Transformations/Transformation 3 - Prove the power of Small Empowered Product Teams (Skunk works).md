@@ -1,5 +1,5 @@
 # Transformation 3: Prove the power of Small Empowered Teams (Skunk Works)
-**HOW we organize**
+**Make it happen**
 
 ## The Transformation
 
@@ -25,7 +25,7 @@ Prove what small, autonomous skunk works teams can accomplish when freed from or
 
 ## Why This Matters
 
-Traditional large teams in [[SAFe]] frameworks:
+Traditional large teams in [[SAFe's factory mindset]] frameworks:
 - Move slowly due to coordination overhead
 - Lose customer signal through layers
 - Optimize for predictability over innovation

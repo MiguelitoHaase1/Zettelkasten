@@ -1,5 +1,5 @@
 # Transformation 2: Stop treating software like an afterthought
-**WHAT we build together**
+**EMBRACE to win**
 
 ## The Transformation
 
